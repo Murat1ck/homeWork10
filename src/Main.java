@@ -5,6 +5,7 @@ public class Main {
             task2();
             task3();
         }
+
         public static void task1() {
             String firstName = "Ivan";
             String middleName = "Ivanovich";
